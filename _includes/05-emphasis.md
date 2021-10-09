@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+<h3> Sample Personal Attributes </h3>
+<h5> 1.   Loyal </h5>
+<h5> 2.   _Trustworthy_ </h5>
+3.   **Caring**
+  
